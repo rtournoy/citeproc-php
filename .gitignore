@@ -5,3 +5,4 @@ composer.lock
 build/
 review/
 .phpunit.result.cache
+/composer.phar
